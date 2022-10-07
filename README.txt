@@ -1,17 +1,4 @@
-D.C Food Blog Restaurant for personal and commercial use. Designed with ♥️ and creativity by Devcrud.com 
+D.C Food Blog Restaurant 
 
-Product Page: https://wwww.devcrud.com/
+Azure link : https://wonderful-hill-0c74ecf10.2.azurestaticapps.net/
 
-Credits:
-
-    Demo Images:
-        Unsplash:       	(https://www.unsplash.com)
-
-    Icons:
-		Themify Icons: 		(https://themify.me/themify-icons)
-
-	Other:
-		JQuery: 			(https://www.jquery.com)
-		Bootstrap: 			(https://www.getbootstrap.com)
-		animate.css:		(http://daneden.me/animate)
-		Google Maps:		(http://maps.google.com)
